@@ -36,4 +36,9 @@ defaults:
       read_time: false
       author_profile: false
 
+footer:
+  links: false
+  content: >
+    © 2025 Yashaswini Mathur. All diagrams are neurons.
+
 # Optional: Add analytics, mathjax, etc. later
