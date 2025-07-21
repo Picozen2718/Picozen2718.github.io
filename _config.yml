@@ -2,7 +2,7 @@ title: Yashaswini Mathur
 description: A research and narrative portfolio in graphs, plays, and proof trails.
 url: "https://yashaswinimathur.github.io"
 baseurl: ""
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 locale: en-US
 
