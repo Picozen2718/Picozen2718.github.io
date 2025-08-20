@@ -72,29 +72,8 @@ education:
 
 
 skills:
-  # The 'skills' section has been restructured based on the new content.
-  # The 'technical skills' and 'hobbies' have been replaced with
+  # The 'technical skills' and 'hobbies' sections have been replaced with
   # more detailed, resume-specific categories.
-  - name: Languages
-    items:
-      - name: English
-        description: ''
-        percent: 100
-      - name: Hindi
-        description: ''
-        percent: 100
-      - name: Marathi
-        description: ''
-        percent: 100
-      - name: Kannada
-        description: ''
-        percent: 100
-      - name: German (A2)
-        description: ''
-        percent: 40
-      - name: Sanskrit (Distinction)
-        description: Madhyma - Samskrit Bharati
-        percent: 100
   - name: Programming Languages
     items:
       - name: Qiskit
@@ -149,13 +128,19 @@ skills:
         percent: 75
 
 languages:
-  # This section is redundant with the new `skills` section, so it's commented out.
-  # - name: English
-  #   percent: 100
-  # - name: Chinese
-  #   percent: 75
-  # - name: Portuguese
-  #   percent: 25
+  - name: English
+    percent: 100
+  - name: Hindi
+    percent: 100
+  - name: Marathi
+    percent: 100
+  - name: Kannada
+    percent: 100
+  - name: German (A2)
+    percent: 40
+  - name: Sanskrit (Distinction)
+    percent: 100
+
 
 awards:
   - title: Madhava Mathematics Competition
