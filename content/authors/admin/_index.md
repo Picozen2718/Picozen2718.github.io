@@ -58,7 +58,7 @@ education:
   - area: BS in Electrical Engineering and Computer Science
     institution: IISER Bhopal
     date_start: 2022-12-05
-    date_end: 2026-04-31
+    date_end: 2026-04-30
     summary: |
       GPA: 9.1/10
       Courses included:
