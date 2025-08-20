@@ -161,7 +161,7 @@ awards:
   - title: Madhava Mathematics Competition
     awarder: National Rank ≤ 50
     date: '2021, 2022'
-  - title: IOI: Qualified for Indian National Olympiad of Informatics
+  - title: IOI- Qualified for Indian National Olympiad of Informatics
     date: '2021, 2022'
   - title: IOQM: Certificate of Merit
     awarder: Top 60 students in Grade 12
