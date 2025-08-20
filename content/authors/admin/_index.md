@@ -160,9 +160,11 @@ languages:
 awards:
   - title: Madhava Mathematics Competition
     awarder: National Rank ≤ 50
-    date: '2021 -- 2022' # Changed to valid range
+    date_start: '2021'
+    date_end: '2022'
   - title: IOI- Qualified for Indian National Olympiad of Informatics
-    date: '2021 -- 2022' # Changed to valid range
+    date_start: '2021'
+    date_end: '2022'
   - title: IOQM - Certificate of Merit
     awarder: Top 60 students in Grade 12
     date: '2022'
@@ -171,16 +173,19 @@ awards:
     date: '2023'
   - title: NYAS Fellowship
     awarder: Member
-    date: '2018 -- 2022'
+    date_start: '2018'
+    date_end: '2022'
   - title: IYMC - Silver Honour
     awarder: International Finalist
-    date: '2020 -- 2021' # Changed to valid range
+    date_start: '2020'
+    date_end: '2021'
   - title: BRICS International - Winner
     awarder: Perfect Score
     date: '2020'
   - title: Gold and Cash Prize in National Mathematics Indian Talent
     awarder: State Rank - 1, AIR - 9
-    date: '2018 -- 2019' # Changed to valid range
+    date_start: '2018'
+    date_end: '2019'
 ---
 
 ## About Me
