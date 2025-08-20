@@ -31,6 +31,18 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+        
+    - name: Setup Node.js # Added
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18' # You can use '20' or another version if preferred
+    - name: Setup pnpm # Added
+      uses: pnpm/action-setup@v3
+      with:
+        version: 9.0 # Use the specific pnpm version if needed, or 'latest'
+    - name: Install Dependencies # Added
+      run: pnpm install
+      
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
