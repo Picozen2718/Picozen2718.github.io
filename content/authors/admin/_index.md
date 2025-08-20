@@ -69,33 +69,6 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  
-  # The following entries are missing the 'area' key and a colon
-  # Corrected version:
-  - area: MEng Artificial Intelligence # Added 'area' and ':'
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  
-  # Corrected version:
-  - area: BSc Artificial Intelligence # Added 'area' and ':'
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       
 # Comment out all other education entries as requested
 # - area: MEng Artificial Intelligence
