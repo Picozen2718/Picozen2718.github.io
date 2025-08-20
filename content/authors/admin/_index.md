@@ -60,8 +60,8 @@ education:
     date_start: 2022-12-05
     date_end: 2026-04-31
     summary: |
-      GPA: 9.1/10
-      Graduated with a bachelor degree through the Informatics (bachelor) program. The program had a wide range of varying courses and a lot of open courses, which let me follow my own curiosity, and gave me a broad overview of the field.
+    GPA: 9.1/10
+    Graduated with a bachelor degree through the Informatics (bachelor) program. The program had a wide range of varying courses and a lot of open courses, which let me follow my own curiosity, and gave me a broad overview of the field.
       
 # Comment out all other education entries as requested
 # - area: MEng Artificial Intelligence
