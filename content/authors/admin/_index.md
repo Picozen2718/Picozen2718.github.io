@@ -60,7 +60,11 @@ education:
     date_start: 2022-12-05
     date_end: 2026-04-31
     summary: |
-    GPA: 9.1/10
+      GPA: 9.1/10
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       
 # Comment out all other education entries as requested
 # - area: MEng Artificial Intelligence
