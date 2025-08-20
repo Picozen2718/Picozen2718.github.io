@@ -135,7 +135,7 @@ skills:
       - name: VS Code
         description: ''
         percent: 95
-      - name: Python: NumPy, SciPy, Pandas, Matplotlib, Pygames
+      - name: Python - NumPy, SciPy, Pandas, Matplotlib, Pygames
         description: ''
         percent: 90
       - name: Notion
