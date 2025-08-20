@@ -160,32 +160,27 @@ languages:
 awards:
   - title: Madhava Mathematics Competition
     awarder: National Rank ≤ 50
-    date_start: '2021'
-    date_end: '2022'
+    date: '2022-01-01'
   - title: IOI- Qualified for Indian National Olympiad of Informatics
-    date_start: '2021'
-    date_end: '2022'
+    date: '2022-01-01'
   - title: IOQM - Certificate of Merit
     awarder: Top 60 students in Grade 12
-    date: '2022'
+    date: '2022-01-01'
   - title: SAT Top 1% Scorer
     awarder: Score - 1490 (Perfect score (800) in Math)
-    date: '2023'
+    date: '2023-01-01'
   - title: NYAS Fellowship
     awarder: Member
-    date_start: '2018'
-    date_end: '2022'
+    date: '2022-01-01'
   - title: IYMC - Silver Honour
     awarder: International Finalist
-    date_start: '2020'
-    date_end: '2021'
+    date: '2021-01-01'
   - title: BRICS International - Winner
     awarder: Perfect Score
-    date: '2020'
+    date: '2020-01-01'
   - title: Gold and Cash Prize in National Mathematics Indian Talent
     awarder: State Rank - 1, AIR - 9
-    date_start: '2018'
-    date_end: '2019'
+    date: '2019-01-01'
 ---
 
 ## About Me
