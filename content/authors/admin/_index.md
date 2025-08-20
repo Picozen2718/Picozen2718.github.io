@@ -50,9 +50,9 @@ profiles:
  #   url: https://orcid.org/
 
 interests:
-  - Theoritical Computer Science
-  - Optimization
-  - Quantum Computing
+- Theoritical Computer Science
+- Optimization
+- Quantum Computing
 
 education:
   - area: BS in Electrical Engineering and Computer Science
