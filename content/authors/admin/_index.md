@@ -172,7 +172,7 @@ awards:
   - title: NYAS Fellowship
     awarder: Member
     date: '2018 -- 2022'
-  - title: IYMC: Silver Honour
+  - title: IYMC - Silver Honour
     awarder: International Finalist
     date: '2020, 2021'
   - title: BRICS International - Winner
